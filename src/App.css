@@ -353,7 +353,7 @@ nav {
     transition: 1000ms cubic-bezier(0.075, 0.82, 0.165, 1);
   }
   .list-links {
-    height: auto;
+    height: auto !important;
   }
   .links a:hover::after {
     width: 100%;
