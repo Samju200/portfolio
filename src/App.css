@@ -113,12 +113,39 @@ nav {
   display: grid;
   place-items: center;
   position: relative;
+  height: 80vh;
 }
 .slide-img {
   width: 100%;
   margin: 10px;
-  height: 80vh;
+  height: 100%;
+  position: absolute;
+  top: 20;
+  overflow: hidden;
+  /* left: 0%; */
 }
+
+.slide-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.currentSlide {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.previousSlide {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+.nextSlide {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
 .word {
   font-size: 20px;
   text-align: center;
@@ -208,13 +235,27 @@ nav {
 .portfolio-link div:hover img {
   opacity: 0.7;
 }
+.skill h1 {
+  text-align: center;
+}
 .skill-list {
   text-align: center;
   text-transform: uppercase;
   font-size: 20px;
 }
+.skill-list > li {
+  padding: 10px;
+  background-color: #fff;
+  color: #382121;
+  margin: 10px;
+  box-shadow: var(--dark-shadow);
+}
 .skill-list li:hover {
-  text-shadow: var(--text-shadow);
+  background-color: #382121;
+  color: #fff;
+}
+.skill {
+  margin-bottom: 50px;
 }
 /* .percentage{
   border: 1px solid #000;
@@ -252,6 +293,7 @@ nav {
   height: 40px;
   background: #382121;
   color: #fff;
+  border-radius: 4px;
 }
 .contact textarea:focus,
 .contact input:focus {
@@ -263,6 +305,7 @@ nav {
   height: 200px;
   background: #382121;
   color: #fff;
+  border-radius: 4px;
 }
 .contact button {
   width: 100px;
@@ -271,6 +314,7 @@ nav {
   color: #fff;
   border: 2px solid #fff;
   margin-left: 250px;
+  border-radius: 4px;
 }
 .error {
   display: block;
@@ -387,5 +431,9 @@ nav {
   }
   .portfolio-link div {
     margin: 0;
+  }
+  .skill-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
   }
 }
