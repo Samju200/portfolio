@@ -20,7 +20,7 @@ function Portfolio() {
                     Veiw Website <FaAngleRight />
                   </a>
                 </button>
-                <a href={githublink}>
+                <a href={githublink} className="github">
                   <FaGithubSquare />
                 </a>
               </div>

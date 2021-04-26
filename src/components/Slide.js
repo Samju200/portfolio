@@ -21,7 +21,7 @@ function Slide() {
     };
   }, [index]);
   return (
-    <div className="slide-image">
+    <div className="slide-image" id="container">
       {slideImage.map((slide, slideIndex) => {
         const { id, image } = slide;
         let position = 'nextSlide';
