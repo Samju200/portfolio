@@ -63,7 +63,7 @@ export const portfolio = [
     id: 7,
     title: 'fetch user',
     image: Fetch,
-    link: 'https://samju200.github.io/react-fetchusers/',
+    link: 'https://users-fetch.herokuapp.com/',
     githublink: 'https://github.com/Samju200/react-fetchusers',
   },
   {
@@ -77,7 +77,7 @@ export const portfolio = [
     id: 9,
     title: 'Advance Todo',
     image: Todo,
-    link: 'https://samju200.github.io/todo/',
+    link: 'https://advance-todo.herokuapp.com/',
     githublink: 'https://github.com/Samju200/todo',
   },
 ];

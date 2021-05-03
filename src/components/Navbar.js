@@ -33,7 +33,7 @@ function Navbar() {
             {/* nav header */}
             <div className="nav-header">
               <h1 className="logo">
-                <a href="http://samju200.github.io/portfolio">SAMJU</a>
+                <a href="https://samju.herokuapp.com/">SAMJU</a>
               </h1>
               <button className="nav-toggle">
                 <IoMenu onClick={() => setShowLink(!showlink)} />
