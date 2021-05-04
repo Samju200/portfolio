@@ -1,17 +1,22 @@
+import axios from 'axios';
 import React, { useState } from 'react';
 
 function Form() {
-  const [name, setName]=useState('')
-   const [email, setEmail] = useState('');
+  const [name, setName] = useState('');
+  const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
-  const handleSubmit = (e)=>{
-    e.preventDefault()
-     const { data } = await Axios.post('https://foodapisamju.herokuapp.com/feedback', {name, email, message });
-     localStorage.setItem('message', JSON.stringify(data));
-     setName('')
-     setEmail('')
-     setMessage('')
-  }
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const { data } = axios.post('https://foodapisamju.herokuapp.com/feedback', {
+      name,
+      email,
+      message,
+    });
+    localStorage.setItem('message', JSON.stringify(data));
+    setName('');
+    setEmail('');
+    setMessage('');
+  };
   return (
     <div className="contact" id="contact">
       <h1>CONTACT</h1>

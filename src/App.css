@@ -221,8 +221,11 @@ nav {
 .port-btn i {
   color: #efefef;
 }
-.portfolio-link div a i {
-  width: 40px;
+.portfolio-link {
+  display: grid;
+  grid-template-columns: 1fr;
+  place-content: center;
+  align-items: center;
 }
 .fa-github {
   color: var(--clr-white);
@@ -260,24 +263,7 @@ nav {
 .skill {
   margin-bottom: 50px;
 }
-/* .percentage{
-  border: 1px solid #000;
-  margin-left: 20px;
-  padding-right: 300px; 
-  padding-left: 30px;
-  position: relative;
-}
-.percentage::after{
-  content: "";
-  left: 0;
-  bottom: 0;
-  z-index: -1;
-  position: absolute;
-  height: 100%;
-  width: 80%;
-  background-color: rgba(240, 128, 128, 0.946);
 
-} */
 .contact h1 {
   color: #fff;
   text-align: center;
@@ -348,8 +334,11 @@ nav {
   font-size: 25px;
 }
 .arrowup {
-  height: 30px !important;
+  height: 50px !important;
   width: 30px !important;
+  display: flex;
+  color: #fff;
+  margin-left: auto;
 }
 /**********************************
   RESPONSIVENESS
@@ -447,7 +436,7 @@ nav {
     grid-template-columns: repeat(4, 1fr);
   }
   .arrowup {
-    height: 50px !important;
+    height: 100px !important;
     width: 50px !important;
   }
 }
