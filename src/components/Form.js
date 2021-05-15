@@ -5,6 +5,7 @@ function Form() {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
+  const [submit, setSubmit] = useState(false);
   const handleSubmit = (e) => {
     e.preventDefault();
     const { data } = axios.post('https://foodapisamju.herokuapp.com/feedback', {
@@ -13,14 +14,23 @@ function Form() {
       message,
     });
     localStorage.setItem('message', JSON.stringify(data));
+
+    console.log(data);
+    setSubmit(true);
     setName('');
     setEmail('');
     setMessage('');
   };
+
   return (
     <div className="contact" id="contact">
       <h1>CONTACT</h1>
-      <p>Have a question or want to work together?</p>
+      <p>
+        {submit
+          ? 'Your Message Successfully Sent'
+          : 'Have a question or want to work together?'}
+      </p>
+      <p></p>
       <form id="form" onSubmit={handleSubmit}>
         <input
           type="text"
