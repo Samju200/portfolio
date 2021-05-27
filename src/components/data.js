@@ -6,6 +6,7 @@ import Dom from './img/dom1.png';
 import Currency from './img/currency.png';
 import Fetch from './img/fetch-user.png';
 import LinkedLin from './img/linkedlin-clone.png';
+import Template from './img/template.png';
 import Todo from './img/todo-react.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
@@ -75,10 +76,17 @@ export const portfolio = [
   },
   {
     id: 9,
-    title: 'Advance Todo',
+    title: 'Advance Todo Dragging and rop',
     image: Todo,
     link: 'https://advance-todo.herokuapp.com/',
     githublink: 'https://github.com/Samju200/todo',
+  },
+  {
+    id: 10,
+    title: 'Template Search and Sort',
+    image: Template,
+    link: 'https://template-task.herokuapp.com/',
+    githublink: 'https://github.com/Samju200/template',
   },
 ];
 export const slideImage = [
