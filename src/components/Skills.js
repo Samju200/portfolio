@@ -18,6 +18,7 @@ function Skills() {
           <li>Node.js</li>
           <li>React</li>
           <li>Product Design</li>
+          <li>TYPESCRIPT</li>
         </ul>
       </div>
     </div>

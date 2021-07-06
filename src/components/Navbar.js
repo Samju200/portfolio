@@ -6,7 +6,7 @@ function Navbar() {
   const [showlink, setShowLink] = useState(false);
   const listLinkRef = useRef(null);
   const linksRef = useRef(null);
-  const navRef = useRef(null);
+
   useEffect(() => {
     const linksHeight = linksRef.current.getBoundingClientRect().height;
     if (showlink) {

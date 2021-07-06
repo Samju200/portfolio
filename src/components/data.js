@@ -8,6 +8,7 @@ import Fetch from './img/fetch-user.png';
 import LinkedLin from './img/linkedlin-clone.png';
 import Template from './img/template.png';
 import Todo from './img/todo-react.png';
+import Gmail from './img/gmail-clone.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
 import Slide3 from './slideName/slide_3.jpg';
@@ -20,7 +21,7 @@ import Slide8 from './slideName/slide_8.jpg';
 export const portfolio = [
   {
     id: 1,
-    title: 'random',
+    title: 'MY first website',
     image: Foundation,
     link: 'https://samju200.github.io/samju/foundation/index.html',
     githublink: 'https://github.com/Samju200/samju/tree/master/foundation',
@@ -87,6 +88,13 @@ export const portfolio = [
     image: Template,
     link: 'https://template-task.herokuapp.com/',
     githublink: 'https://github.com/Samju200/template',
+  },
+  {
+    id: 11,
+    title: 'Gmail Clone',
+    image: Gmail,
+    link: 'https://clone-6faf4.web.app/',
+    githublink: 'https://github.com/Samju200/gmail-clone',
   },
 ];
 export const slideImage = [

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { slideImage } from './data';
 
 function Slide() {
-  const [imageSlide, setImageSlide] = useState(slideImage);
+  const [imageSlide] = useState(slideImage);
   const [index, setIndex] = React.useState(1);
   useEffect(() => {
     const lastIndex = imageSlide.length - 1;
