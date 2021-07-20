@@ -19,13 +19,13 @@ import Slide7 from './slideName/slide_7.jpg';
 import Slide8 from './slideName/slide_8.jpg';
 
 export const portfolio = [
-  {
-    id: 1,
-    title: 'MY first website',
-    image: Foundation,
-    link: 'https://samju200.github.io/samju/foundation/index.html',
-    githublink: 'https://github.com/Samju200/samju/tree/master/foundation',
-  },
+  // {
+  //   id: 1,
+  //   title: 'MY first website',
+  //   image: Foundation,
+  //   link: 'https://samju200.github.io/samju/foundation/index.html',
+  //   githublink: 'https://github.com/Samju200/samju/tree/master/foundation',
+  // },
   {
     id: 2,
     title: 'E-Commerce',
@@ -33,13 +33,13 @@ export const portfolio = [
     link: 'https://samju200.github.io/samju/simple/product.html',
     githublink: 'https://github.com/Samju200/samju/tree/master/simple',
   },
-  {
-    id: 3,
-    title: 'E-Commerce',
-    image: Dribble,
-    link: 'https://samju200.github.io/samju/dribble/index.html',
-    githublink: 'https://github.com/Samju200/samju/tree/master/dribble',
-  },
+  // {
+  //   id: 3,
+  //   title: 'E-Commerce',
+  //   image: Dribble,
+  //   link: 'https://samju200.github.io/samju/dribble/index.html',
+  //   githublink: 'https://github.com/Samju200/samju/tree/master/dribble',
+  // },
   {
     id: 4,
     title: 'E-Commerce',
@@ -77,14 +77,14 @@ export const portfolio = [
   },
   {
     id: 9,
-    title: 'Advance Todo Dragging and rop',
+    title: 'Advance Todo Dragging and drop',
     image: Todo,
     link: 'https://advance-todo.herokuapp.com/',
     githublink: 'https://github.com/Samju200/todo',
   },
   {
     id: 10,
-    title: 'Template Search and Sort',
+    title: 'Data management with Search and Sort',
     image: Template,
     link: 'https://template-task.herokuapp.com/',
     githublink: 'https://github.com/Samju200/template',
