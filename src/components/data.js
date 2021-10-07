@@ -9,6 +9,7 @@ import LinkedLin from './img/linkedlin-clone.png';
 import Template from './img/template.png';
 import Todo from './img/todo-react.png';
 import Gmail from './img/gmail-clone.png';
+import Netflix from './img/netflix.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
 import Slide3 from './slideName/slide_3.jpg';
@@ -95,6 +96,13 @@ export const portfolio = [
     image: Gmail,
     link: 'https://clone-6faf4.web.app/',
     githublink: 'https://github.com/Samju200/gmail-clone',
+  },
+  {
+    id: 12,
+    title: 'Netflix Clone',
+    image: Netflix,
+    link: 'https://netflix-clone-37df8.web.app/',
+    githublink: 'https://github.com/Samju200/netflix-clone',
   },
 ];
 export const slideImage = [
