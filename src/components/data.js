@@ -9,6 +9,7 @@ import LinkedLin from './img/linkedlin-clone.png';
 import Template from './img/template.png';
 import Todo from './img/todo-react.png';
 import Gmail from './img/gmail-clone.png';
+import Shop from './img/shop.png';
 import Netflix from './img/netflix.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
@@ -42,6 +43,13 @@ export const portfolio = [
     githublink: 'https://github.com/Samju200',
   },
   {
+    id: 10,
+    title: 'Shop With Samju',
+    image: Shop,
+    link: 'https://samju200.github.io/my-online-shop',
+    githublink: 'https://github.com/Samju200/my-online-shop',
+  },
+  {
     id: 4,
     title: 'Currency Exchange',
     image: Currency,
@@ -59,7 +67,7 @@ export const portfolio = [
     id: 6,
     title: 'Advance Todo Dragging and drop',
     image: Todo,
-    link: 'https://advance-todo.herokuapp.com/',
+    link: 'https://samju200.github.io/todo/',
     githublink: 'https://github.com/Samju200/todo',
   },
   {
