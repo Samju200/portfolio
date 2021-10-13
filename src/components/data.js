@@ -47,7 +47,7 @@ export const portfolio = [
     title: 'Shop With Samju',
     image: Shop,
     link: 'https://samju200.github.io/my-online-shop',
-    githublink: 'https://github.com/Samju200//tree/master/my-online-shop',
+    githublink: 'https://github.com/Samju200/my-online-shop',
   },
   {
     id: 4,
