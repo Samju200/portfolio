@@ -11,6 +11,7 @@ import Todo from './img/todo-react.png';
 import Gmail from './img/gmail-clone.png';
 import Shop from './img/shop.png';
 import Netflix from './img/netflix.png';
+import Instagram from './img/instagram.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
 import Slide3 from './slideName/slide_3.jpg';
@@ -27,6 +28,13 @@ export const portfolio = [
     image: Netflix,
     link: 'https://netflix-clone-37df8.web.app/',
     githublink: 'https://github.com/Samju200/netflix-clone',
+  },
+  {
+    id: 12,
+    title: 'Instagram Clone',
+    image: Instagram,
+    link: 'https://instagram-next-kappa.vercel.app/',
+    githublink: 'https://github.com/Samju200/instagram-next',
   },
   {
     id: 2,
