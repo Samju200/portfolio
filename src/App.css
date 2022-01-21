@@ -187,6 +187,7 @@ nav {
   width: 350px;
   margin-top: 20px;
   border-radius: 20px;
+  max-height: 200px;
 }
 .portfolio-link div {
   margin: 20px;
@@ -283,11 +284,13 @@ nav {
   background: #382121;
   color: #fff;
   border-radius: 4px;
+  padding: 12px;
 }
 .contact textarea:focus,
 .contact input:focus {
   background-color: var(--clr-white);
   color: var(--clr-black);
+  padding: 12px;
 }
 .contact textarea {
   width: 350px;
@@ -295,6 +298,7 @@ nav {
   background: #382121;
   color: #fff;
   border-radius: 4px;
+  padding: 12px;
 }
 .contact button {
   width: 100px;

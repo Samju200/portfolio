@@ -17,6 +17,7 @@ function Skills() {
           <li>PHP</li>
           <li>Node.js</li>
           <li>React</li>
+          <li>Next</li>
           <li>Product Design</li>
         </ul>
       </div>

@@ -12,6 +12,7 @@ import Gmail from './img/gmail-clone.png';
 import Shop from './img/shop.png';
 import Netflix from './img/netflix.png';
 import Instagram from './img/instagram.png';
+import Design from './img/Onboarding.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
 import Slide3 from './slideName/slide_3.jpg';
@@ -63,6 +64,14 @@ export const portfolio = [
     image: Currency,
     link: 'https://samju200.github.io/samju/currency/index.html',
     githublink: 'https://github.com/Samju200/samju/tree/master/currency',
+  },
+  {
+    id: 13,
+    title: 'Product Design',
+    image: Design,
+    link: 'https://www.behance.net/gallery/116553949/African-food-restaurant',
+    githublink:
+      'https://www.figma.com/file/ocdynE5cpgsMdSnwAVUbIY/Team-2--AFI-(Copy)?node-id=556%3A19801',
   },
   {
     id: 5,
