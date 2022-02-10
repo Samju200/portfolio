@@ -16,7 +16,7 @@ function Skills() {
           <li>Node.js(Express)</li>
           <li>React</li>
           <li>Tailwind css</li>
-          <li>Next</li>
+          <li>Next/Next-auth</li>
           <li>MongoDB</li>
           <li>Firebase</li>
           <li>Product Design</li>
