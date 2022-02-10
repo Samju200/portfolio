@@ -3,13 +3,13 @@ import React, { useState, useRef, useEffect } from 'react';
 import { IoMenu } from 'react-icons/io5';
 import Social from './Social';
 function Navbar() {
-  const [showlink, setShowLink] = useState(false);
+  const [showLink, setShowLink] = useState(false);
   const listLinkRef = useRef(null);
   const linksRef = useRef(null);
 
   useEffect(() => {
     const linksHeight = linksRef.current.getBoundingClientRect().height;
-    if (showlink) {
+    if (showLink) {
       listLinkRef.current.style.height = `${linksHeight}px`;
     } else {
       listLinkRef.current.style.height = '0px';
@@ -36,7 +36,7 @@ function Navbar() {
                 <a href="https://samju.herokuapp.com/">SAMJU</a>
               </h1>
               <button className="nav-toggle">
-                <IoMenu onClick={() => setShowLink(!showlink)} />
+                <IoMenu onClick={() => setShowLink(!showLink)} />
               </button>
             </div>
             {/* links */}

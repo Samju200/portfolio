@@ -45,7 +45,8 @@ function Slide() {
         <h1>
           {' '}
           Hello, <br /> I'm <span className="my-name">Juwon Adeyemi.</span>
-          <br /> I create beautiful and dynamic websites.
+          <br />
+          A Full Stack Developer <br />I create beautiful and dynamic websites.
         </h1>
         <button className="slide-btn">Get started</button>
       </div>

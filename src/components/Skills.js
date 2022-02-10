@@ -11,13 +11,14 @@ function Skills() {
           <li> HTML</li>
           <li>CSS</li>
           <li>JAVASCRIPT</li>
-          <li>BOOTSTRAP</li>
-          <li>J-QUERY</li>
           <li>MYSQL</li>
-          <li>PHP</li>
+          <li>PHP(slim framework)</li>
           <li>Node.js</li>
           <li>React</li>
+          <li>Tailwind css</li>
           <li>Next</li>
+          <li>MongoDB</li>
+          <li>Firebase</li>
           <li>Product Design</li>
         </ul>
       </div>

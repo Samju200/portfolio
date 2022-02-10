@@ -162,9 +162,10 @@ nav {
   font-size: 40px;
   margin: 40px;
   text-transform: uppercase;
+  padding: 16px;
 }
 .my-name {
-  font-size: 60px;
+  /* font-size: 60px; */
 }
 .slide-btn {
   padding: 10px;

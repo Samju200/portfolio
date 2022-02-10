@@ -1,7 +1,4 @@
-import Foundation from './img/foundation.png';
 import Simple from './img/simple.png';
-import Dribble from './img/dribble.png';
-import Martha from './img/martha.png';
 import Dom from './img/dom1.png';
 import Currency from './img/currency.png';
 import Fetch from './img/fetch-user.png';
