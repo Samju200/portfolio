@@ -8,8 +8,7 @@ function Skills() {
         <ul className="skill-list">
           <li> GIT </li>
           <li> WIREFRAME</li>
-          <li> HTML</li>
-          <li>CSS</li>
+          <li> HTML/CSS</li>
           <li>JAVASCRIPT</li>
           <li>MYSQL</li>
           <li>PHP(slim framework)</li>
