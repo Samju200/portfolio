@@ -12,7 +12,7 @@ function Skills() {
           <li>JAVASCRIPT</li>
           <li>MYSQL</li>
           <li>PHP</li>
-          <li>Node.js(Express)</li>
+          <li>Node.js</li>
           <li>React</li>
           <li>Tailwind css</li>
           <li>Next/Next-auth</li>
