@@ -8,6 +8,8 @@ import Todo from './img/todo-react.png';
 import Gmail from './img/gmail-clone.png';
 import Shop from './img/shop.png';
 import Netflix from './img/netflix.png';
+import Spotify from './img/sportify.png';
+import Construction from './img/construction.png';
 import Instagram from './img/instagram.png';
 import Design from './img/Onboarding.png';
 import Slide1 from './slideName/slide_1.jpg';
@@ -29,10 +31,24 @@ export const portfolio = [
   },
   {
     id: 12,
+    title: 'Construction',
+    image: Construction,
+    link: 'https://construction-sigma.vercel.app/',
+    githublink: 'https://github.com/Samju200/construction',
+  },
+  {
+    id: 12,
     title: 'Instagram Clone',
     image: Instagram,
     link: 'https://instagram-next-kappa.vercel.app/',
     githublink: 'https://github.com/Samju200/instagram-next',
+  },
+  {
+    id: 12,
+    title: 'Spotify Clone',
+    image: Spotify,
+    link: 'https://sportify-lake.vercel.app/',
+    githublink: 'https://github.com/Samju200/sportify',
   },
   {
     id: 2,
