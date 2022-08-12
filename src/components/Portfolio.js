@@ -12,7 +12,7 @@ function Portfolio() {
             const { id, title, link, githublink, image } = site;
             return (
               <div className="foundation" key={id}>
-                <img src={image} className="foto" alt="" />
+                <img src={image} className="foto" alt="site overview" />
                 <h1>{title}</h1>
                 <button className="port-btn">
                   {' '}

@@ -14,11 +14,13 @@ function Skills() {
           <li>PHP</li>
           <li>Node.js(Express)</li>
           <li>React</li>
+          <li>Vue</li>
           <li>Tailwind css</li>
           <li>Next/Next-auth</li>
           <li>MongoDB</li>
           <li>Firebase</li>
           <li>Product Design</li>
+          <li>Python(beginner level)</li>
         </ul>
       </div>
     </div>
