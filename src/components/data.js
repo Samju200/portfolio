@@ -100,13 +100,7 @@ export const portfolio = [
     link: 'https://samju200.github.io/todo/',
     githublink: 'https://github.com/Samju200/todo',
   },
-  {
-    id: 7,
-    title: 'Data management with Search and Sort',
-    image: Template,
-    link: 'https://template-task.herokuapp.com/',
-    githublink: 'https://github.com/Samju200/template',
-  },
+
   {
     id: 8,
     title: 'E-Commerce',
