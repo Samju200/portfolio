@@ -11,6 +11,7 @@ import Netflix from './img/netflix.png';
 import Spotify from './img/sportify.png';
 import Construction from './img/construction.png';
 import Instagram from './img/instagram.png';
+import FoodBag from './img/FoodBag.png';
 import Design from './img/Onboarding.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';
@@ -22,6 +23,13 @@ import Slide7 from './slideName/slide_7.jpg';
 import Slide8 from './slideName/slide_8.jpg';
 
 export const portfolio = [
+  {
+    id: 123,
+    title: 'FoodBag',
+    image: FoodBag,
+    link: 'https://foodbag-three.vercel.app/',
+    githublink: 'https://github.com/Samju200/foodbag',
+  },
   {
     id: 1,
     title: 'Netflix Clone',
