@@ -102,13 +102,7 @@ export const portfolio = [
     githublink:
       'https://www.figma.com/file/ocdynE5cpgsMdSnwAVUbIY/Team-2--AFI-(Copy)?node-id=556%3A19801',
   },
-  {
-    id: 11,
-    title: 'fetch user',
-    image: Fetch,
-    link: 'https://users-fetch.herokuapp.com/',
-    githublink: 'https://github.com/Samju200/react-fetchusers',
-  },
+
   {
     id: 12,
     title: 'Advance Todo Dragging and drop',
