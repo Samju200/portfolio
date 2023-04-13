@@ -1,7 +1,6 @@
 import Simple from './img/simple.png';
 import Dom from './img/dom1.png';
 import Currency from './img/currency.png';
-import Fetch from './img/fetch-user.png';
 import LinkedLin from './img/linkedlin-clone.png';
 import Template from './img/template.png';
 import Todo from './img/todo-react.png';
@@ -11,7 +10,7 @@ import Netflix from './img/netflix.png';
 import Spotify from './img/sportify.png';
 import Construction from './img/construction.png';
 import Instagram from './img/instagram.png';
-import FoodBag from './img/FoodBag.png';
+import FoodBag from './img/FoodBag.PNG';
 import Design from './img/Onboarding.png';
 import Slide1 from './slideName/slide_1.jpg';
 import Slide2 from './slideName/slide_2.jpg';

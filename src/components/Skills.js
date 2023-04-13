@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Skills() {
   return (
@@ -12,6 +12,7 @@ function Skills() {
           <li>MYSQL</li>
           <li>Node.js(Express)</li>
           <li>React</li>
+          <li>React-native</li>
           <li>Vue</li>
         </ul>
       </div>
