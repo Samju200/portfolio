@@ -13,6 +13,7 @@ import Deliveroo from "./img/Deliveroo-clone.png";
 import Instagram from "./img/instagram.png";
 import FoodBag from "./img/FoodBag.PNG";
 import Design from "./img/Onboarding.png";
+import Quiz from "./img/Quiz.png";
 import Slide1 from "./slideName/slide_1.jpg";
 import Slide2 from "./slideName/slide_2.jpg";
 import Slide3 from "./slideName/slide_3.jpg";
@@ -23,6 +24,13 @@ import Slide7 from "./slideName/slide_7.jpg";
 import Slide8 from "./slideName/slide_8.jpg";
 
 export const portfolio = [
+  {
+    id: 12344,
+    title: "ECWA LWDYC Bible Quiz App",
+    image: Quiz,
+    link: "http://16.171.7.108/",
+    githublink: "",
+  },
   {
     id: 1234,
     title: "Deliveroo React_native App",
