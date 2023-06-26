@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d79f2271.css",
-    "main.js": "/portfolio/static/js/main.e00fa95b.js",
+    "main.js": "/portfolio/static/js/main.05652d57.js",
     "static/js/787.5db04c4e.chunk.js": "/portfolio/static/js/787.5db04c4e.chunk.js",
     "static/media/slide_1.jpg": "/portfolio/static/media/slide_1.62d52619f7330e18786b.jpg",
     "static/media/slide_8.jpg": "/portfolio/static/media/slide_8.5552a25dbb1ed11418e9.jpg",
@@ -18,20 +18,22 @@
     "static/media/Onboarding.png": "/portfolio/static/media/Onboarding.86bd38bcdef46f5fb298.png",
     "static/media/simple.png": "/portfolio/static/media/simple.8df34c5b795965153017.png",
     "static/media/FoodBag.PNG": "/portfolio/static/media/FoodBag.2b1b1c6622e633a7c9b4.PNG",
+    "static/media/Deliveroo-clone.png": "/portfolio/static/media/Deliveroo-clone.0194420d15f241ff42ed.png",
     "static/media/sportify.png": "/portfolio/static/media/sportify.80118898dd586536c747.png",
     "static/media/linkedlin-clone.png": "/portfolio/static/media/linkedlin-clone.c8d7d255a8ff4a894d8e.png",
     "static/media/shop.png": "/portfolio/static/media/shop.7ee6f35913e37d5e4965.png",
+    "static/media/Quiz.png": "/portfolio/static/media/Quiz.02800d029e5563e54165.png",
     "static/media/gmail-clone.png": "/portfolio/static/media/gmail-clone.ad4b04ab1aca4a10ad5d.png",
     "static/media/template.png": "/portfolio/static/media/template.5488844d74af8260d1be.png",
     "static/media/todo-react.png": "/portfolio/static/media/todo-react.d87559d42ae995e15e00.png",
     "static/media/dom1.png": "/portfolio/static/media/dom1.e500ec7cf27ac1ab2d36.png",
     "index.html": "/portfolio/index.html",
     "main.d79f2271.css.map": "/portfolio/static/css/main.d79f2271.css.map",
-    "main.e00fa95b.js.map": "/portfolio/static/js/main.e00fa95b.js.map",
+    "main.05652d57.js.map": "/portfolio/static/js/main.05652d57.js.map",
     "787.5db04c4e.chunk.js.map": "/portfolio/static/js/787.5db04c4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d79f2271.css",
-    "static/js/main.e00fa95b.js"
+    "static/js/main.05652d57.js"
   ]
 }
