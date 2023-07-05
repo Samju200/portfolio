@@ -1,25 +1,28 @@
-import axios from 'axios';
-import React, { useState } from 'react';
+import axios from "axios";
+import React, { useState } from "react";
 
 function Form() {
-  const [name, setName] = useState('');
-  const [email, setEmail] = useState('');
-  const [message, setMessage] = useState('');
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
   const [submit, setSubmit] = useState(false);
   const handleSubmit = (e) => {
     e.preventDefault();
-    const { data } = axios.post('https://foodapisamju.herokuapp.com/feedback', {
-      name,
-      email,
-      message,
-    });
-    localStorage.setItem('message', JSON.stringify(data));
+    const { data } = axios.post(
+      "https://drab-puce-adder-tie.cyclic.app/feedback",
+      {
+        name,
+        email,
+        message,
+      }
+    );
+    localStorage.setItem("message", JSON.stringify(data));
 
     console.log(data);
     setSubmit(true);
-    setName('');
-    setEmail('');
-    setMessage('');
+    setName("");
+    setEmail("");
+    setMessage("");
   };
 
   return (
@@ -27,8 +30,8 @@ function Form() {
       <h1>CONTACT</h1>
       <p>
         {submit
-          ? 'Your Message Successfully Sent'
-          : 'Have a question or want to work together?'}
+          ? "Your Message Successfully Sent"
+          : "Have a question or want to work together?"}
       </p>
       <p></p>
       <form id="form" onSubmit={handleSubmit}>

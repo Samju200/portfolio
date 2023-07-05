@@ -14,6 +14,7 @@ function Skills() {
           <li>React</li>
           <li>React-native</li>
           <li>Vue</li>
+          <li>PHP</li>
         </ul>
       </div>
     </div>
