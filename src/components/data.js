@@ -14,6 +14,7 @@ import Instagram from "./img/instagram.png";
 import FoodBag from "./img/FoodBag.PNG";
 import Design from "./img/Onboarding.png";
 import Quiz from "./img/Quiz.png";
+import Fetch from "./img/fetch.png";
 import Slide1 from "./slideName/slide_1.jpg";
 import Slide2 from "./slideName/slide_2.jpg";
 import Slide3 from "./slideName/slide_3.jpg";
@@ -32,12 +33,13 @@ export const portfolio = [
     githublink: "",
   },
   {
-    id: 1234,
-    title: "Deliveroo React_native App",
-    image: Deliveroo,
-    link: "",
-    githublink: "https://github.com/Samju200/deliveroo-clone",
+    id: 12346,
+    title: "FETCH DASHBOARD",
+    image: Fetch,
+    link: "https://samju200.github.io/dashboard/",
+    githublink: "",
   },
+
   {
     id: 123,
     title: "FoodBag",
@@ -45,13 +47,7 @@ export const portfolio = [
     link: "https://foodbag-three.vercel.app/",
     githublink: "https://github.com/Samju200/foodbag",
   },
-  {
-    id: 1,
-    title: "Netflix Clone",
-    image: Netflix,
-    link: "https://netflix-clone-37df8.web.app/",
-    githublink: "https://github.com/Samju200/netflix-clone",
-  },
+
   {
     id: 2,
     title: "Construction",
@@ -60,11 +56,19 @@ export const portfolio = [
     githublink: "https://github.com/Samju200/construction",
   },
   {
-    id: 3,
-    title: "Template",
-    image: Template,
-    link: "https://samju200.github.io/formplus-template-task/",
-    githublink: "https://github.com/Samju200/formplus-template-task",
+    id: 6,
+    title: "Spotify Clone",
+    image: Spotify,
+    link: "https://sportify-lake.vercel.app/",
+    githublink: "https://github.com/Samju200/sportify",
+  },
+
+  {
+    id: 1,
+    title: "Netflix Clone",
+    image: Netflix,
+    link: "https://netflix-clone-37df8.web.app/",
+    githublink: "https://github.com/Samju200/netflix-clone",
   },
   {
     id: 4,
@@ -74,20 +78,6 @@ export const portfolio = [
     githublink: "https://github.com/Samju200/instagram-next",
   },
   {
-    id: 5,
-    title: "Shop With Samju",
-    image: Shop,
-    link: "https://samju200.github.io/my-online-shop",
-    githublink: "https://github.com/Samju200/my-online-shop",
-  },
-  {
-    id: 6,
-    title: "Spotify Clone",
-    image: Spotify,
-    link: "https://sportify-lake.vercel.app/",
-    githublink: "https://github.com/Samju200/sportify",
-  },
-  {
     id: 7,
     title: "Gmail Clone",
     image: Gmail,
@@ -95,18 +85,41 @@ export const portfolio = [
     githublink: "https://github.com/Samju200/gmail-clone",
   },
   {
-    id: 8,
-    title: "Currency Exchange",
-    image: Currency,
-    link: "https://samju200.github.io/samju/currency/index.html",
-    githublink: "https://github.com/Samju200/samju/tree/master/currency",
-  },
-  {
     id: 9,
     title: "LinkedlIn Clone",
     image: LinkedLin,
     link: "https://linkedin-clone-yt-4878b.web.app/",
     githublink: "https://github.com/Samju200",
+  },
+  {
+    id: 3,
+    title: "Template",
+    image: Template,
+    link: "https://samju200.github.io/formplus-template-task/",
+    githublink: "https://github.com/Samju200/formplus-template-task",
+  },
+
+  {
+    id: 5,
+    title: "Shop With Samju",
+    image: Shop,
+    link: "https://samju200.github.io/my-online-shop",
+    githublink: "https://github.com/Samju200/my-online-shop",
+  },
+  {
+    id: 1234,
+    title: "Deliveroo React_native App",
+    image: Deliveroo,
+    link: "",
+    githublink: "https://github.com/Samju200/deliveroo-clone",
+  },
+
+  {
+    id: 8,
+    title: "Currency Exchange",
+    image: Currency,
+    link: "https://samju200.github.io/samju/currency/index.html",
+    githublink: "https://github.com/Samju200/samju/tree/master/currency",
   },
 
   {
