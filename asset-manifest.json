@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d79f2271.css",
-    "main.js": "/portfolio/static/js/main.dc45ac3e.js",
+    "main.js": "/portfolio/static/js/main.4769384c.js",
     "static/js/787.5db04c4e.chunk.js": "/portfolio/static/js/787.5db04c4e.chunk.js",
     "static/media/slide_1.jpg": "/portfolio/static/media/slide_1.62d52619f7330e18786b.jpg",
     "static/media/slide_8.jpg": "/portfolio/static/media/slide_8.5552a25dbb1ed11418e9.jpg",
@@ -18,6 +18,7 @@
     "static/media/Onboarding.png": "/portfolio/static/media/Onboarding.86bd38bcdef46f5fb298.png",
     "static/media/simple.png": "/portfolio/static/media/simple.8df34c5b795965153017.png",
     "static/media/FoodBag.PNG": "/portfolio/static/media/FoodBag.2b1b1c6622e633a7c9b4.PNG",
+    "static/media/fetch.png": "/portfolio/static/media/fetch.572cebd4f259dc9e3382.png",
     "static/media/Deliveroo-clone.png": "/portfolio/static/media/Deliveroo-clone.0194420d15f241ff42ed.png",
     "static/media/sportify.png": "/portfolio/static/media/sportify.80118898dd586536c747.png",
     "static/media/linkedlin-clone.png": "/portfolio/static/media/linkedlin-clone.c8d7d255a8ff4a894d8e.png",
@@ -29,11 +30,11 @@
     "static/media/dom1.png": "/portfolio/static/media/dom1.e500ec7cf27ac1ab2d36.png",
     "index.html": "/portfolio/index.html",
     "main.d79f2271.css.map": "/portfolio/static/css/main.d79f2271.css.map",
-    "main.dc45ac3e.js.map": "/portfolio/static/js/main.dc45ac3e.js.map",
+    "main.4769384c.js.map": "/portfolio/static/js/main.4769384c.js.map",
     "787.5db04c4e.chunk.js.map": "/portfolio/static/js/787.5db04c4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d79f2271.css",
-    "static/js/main.dc45ac3e.js"
+    "static/js/main.4769384c.js"
   ]
 }
