@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { slideImage } from './data';
+import React, { useState, useEffect } from "react";
+import { slideImage } from "./data";
 
 function Slide() {
   const [imageSlide] = useState(slideImage);
@@ -24,14 +24,14 @@ function Slide() {
     <div className="slide-image" id="container">
       {slideImage.map((slide, slideIndex) => {
         const { id, image } = slide;
-        let position = 'nextSlide';
+        let position = "nextSlide";
 
         if (index === slideIndex) {
-          position = 'currentSlide';
+          position = "currentSlide";
         }
 
         if (index < slideIndex) {
-          position = 'previousSlide';
+          position = "previousSlide";
         }
 
         return (
@@ -43,10 +43,10 @@ function Slide() {
 
       <div className="word slide-p">
         <h1>
-          {' '}
-          Hello, <br /> I'm <span className="my-name">Juwon Adeyemi.</span>
-          <br />
-          A Full Stack Developer <br />I create beautiful and dynamic websites.
+          "Hello there! I'm <span className="my-name">Juwon Adeyemi</span>,{" "}
+          <br /> a passionate and experienced <br /> full-stack web developer{" "}
+          <br /> dedicated to crafting innovative <br /> and seamless digital
+          experiences.
         </h1>
         <button className="slide-btn">Get started</button>
       </div>

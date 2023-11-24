@@ -12,7 +12,7 @@ function Footer() {
         </ul>
       </div>
       <div className="footer-bottom">
-        Copyright &copy; Samju100 <span id="year">{year}</span>
+        Copyright &copy; Samju100 <span>{year}</span>
       </div>
       <a href="#container">
         <FaArrowUp className="arrowup" />
