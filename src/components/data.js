@@ -15,6 +15,7 @@ import FoodBag from "./img/FoodBag.PNG";
 import Design from "./img/Onboarding.png";
 import Quiz from "./img/Quiz.png";
 import Hospital from "./img/hospital.png";
+import TaxDoc from "./img/javadoctax.png";
 import Fetch from "./img/fetch.png";
 import Slide1 from "./slideName/slide_1.jpg";
 import Slide2 from "./slideName/slide_2.jpg";
@@ -26,6 +27,13 @@ import Slide7 from "./slideName/slide_7.jpg";
 import Slide8 from "./slideName/slide_8.jpg";
 
 export const portfolio = [
+  {
+    id: 125,
+    title: "JAVADOC FOR TAX CAlCULATION",
+    image: TaxDoc,
+    link: "https://samju200.github.io/javadoc-tax",
+    githublink: "https://github.com/Samju200/taxCalculator",
+  },
   {
     id: 1256,
     title: "HOSPITAL MANAGEMENT APP",
