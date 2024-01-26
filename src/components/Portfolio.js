@@ -1,6 +1,6 @@
-import React from 'react';
-import { FaAngleRight, FaGithubSquare } from 'react-icons/fa';
-import { portfolio } from './data';
+import React from "react";
+import { FaGithubSquare } from "react-icons/fa";
+import { portfolio } from "./data";
 
 function Portfolio() {
   return (
@@ -15,10 +15,8 @@ function Portfolio() {
                 <img src={image} className="foto" alt="site overview" />
                 <h1>{title}</h1>
                 <button className="port-btn">
-                  {' '}
-                  <a href={link}>
-                    Veiw Website <FaAngleRight />
-                  </a>
+                  {" "}
+                  <a href={link}>Veiw</a>
                 </button>
                 <a href={githublink} className="github">
                   <FaGithubSquare />

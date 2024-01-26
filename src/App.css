@@ -206,24 +206,22 @@ nav {
 .github {
   color: #fff !important;
 }
-.port-btn a {
-  font-size: 16px;
-  color: #000;
-}
+
 .port-btn {
-  padding: 10px;
+  padding: 5px 10px;
   font-size: 16px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: var(--clr-white);
-  background: transparent;
+  background: #fff;
   border-radius: 10px;
-  border: 1px solid var(--clr-black);
-  box-shadow: var(--text-shadow);
+  border: none;
+  /* box-shadow: var(--text-shadow); */
   margin-bottom: 20px;
 }
-.port-btn i {
-  color: #efefef;
+.port-btn a {
+  color: #382121 !important;
 }
+
 .portfolio-link {
   display: grid;
   grid-template-columns: 1fr;
