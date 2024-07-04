@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e21130d2.css",
-    "main.js": "/portfolio/static/js/main.8fd05f7e.js",
+    "main.css": "/portfolio/static/css/main.735e14ff.css",
+    "main.js": "/portfolio/static/js/main.d3e97773.js",
     "static/js/787.5db04c4e.chunk.js": "/portfolio/static/js/787.5db04c4e.chunk.js",
     "static/media/slide_1.jpg": "/portfolio/static/media/slide_1.62d52619f7330e18786b.jpg",
     "static/media/slide_8.jpg": "/portfolio/static/media/slide_8.5552a25dbb1ed11418e9.jpg",
@@ -13,8 +13,10 @@
     "static/media/netflix.png": "/portfolio/static/media/netflix.042b01eb80a9e023d4da.png",
     "static/media/slide_3.jpg": "/portfolio/static/media/slide_3.6955f181999be184df9c.jpg",
     "static/media/construction.png": "/portfolio/static/media/construction.82a64fcae31f00380b76.png",
+    "static/media/bode.png": "/portfolio/static/media/bode.bce15d4828cc195cf006.png",
     "static/media/currency.png": "/portfolio/static/media/currency.6622c111ed88f489f266.png",
     "static/media/instagram.png": "/portfolio/static/media/instagram.1ef286c6ffd278db7d93.png",
+    "static/media/dufuna.png": "/portfolio/static/media/dufuna.9128a1f1742d0ad43288.png",
     "static/media/Onboarding.png": "/portfolio/static/media/Onboarding.86bd38bcdef46f5fb298.png",
     "static/media/simple.png": "/portfolio/static/media/simple.8df34c5b795965153017.png",
     "static/media/FoodBag.PNG": "/portfolio/static/media/FoodBag.2b1b1c6622e633a7c9b4.PNG",
@@ -26,18 +28,19 @@
     "static/media/Quiz.png": "/portfolio/static/media/Quiz.02800d029e5563e54165.png",
     "static/media/gmail-clone.png": "/portfolio/static/media/gmail-clone.ad4b04ab1aca4a10ad5d.png",
     "static/media/template.png": "/portfolio/static/media/template.5488844d74af8260d1be.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.36b13e4cde27c99d50ce.png",
     "static/media/todo-react.png": "/portfolio/static/media/todo-react.d87559d42ae995e15e00.png",
     "static/media/hospital.png": "/portfolio/static/media/hospital.186d1515446fd676aa7a.png",
     "static/media/javadoctax.png": "/portfolio/static/media/javadoctax.396173bcf61e62bcb7cb.png",
     "static/media/dom1.png": "/portfolio/static/media/dom1.e500ec7cf27ac1ab2d36.png",
     "static/media/javadochealth.png": "/portfolio/static/media/javadochealth.79457fd1b7a66cb0c720.png",
     "index.html": "/portfolio/index.html",
-    "main.e21130d2.css.map": "/portfolio/static/css/main.e21130d2.css.map",
-    "main.8fd05f7e.js.map": "/portfolio/static/js/main.8fd05f7e.js.map",
+    "main.735e14ff.css.map": "/portfolio/static/css/main.735e14ff.css.map",
+    "main.d3e97773.js.map": "/portfolio/static/js/main.d3e97773.js.map",
     "787.5db04c4e.chunk.js.map": "/portfolio/static/js/787.5db04c4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e21130d2.css",
-    "static/js/main.8fd05f7e.js"
+    "static/css/main.735e14ff.css",
+    "static/js/main.d3e97773.js"
   ]
 }
