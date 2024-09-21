@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.735e14ff.css",
-    "main.js": "/portfolio/static/js/main.d3e97773.js",
+    "main.js": "/portfolio/static/js/main.937c25e6.js",
     "static/js/787.5db04c4e.chunk.js": "/portfolio/static/js/787.5db04c4e.chunk.js",
     "static/media/slide_1.jpg": "/portfolio/static/media/slide_1.62d52619f7330e18786b.jpg",
     "static/media/slide_8.jpg": "/portfolio/static/media/slide_8.5552a25dbb1ed11418e9.jpg",
@@ -19,6 +19,7 @@
     "static/media/dufuna.png": "/portfolio/static/media/dufuna.9128a1f1742d0ad43288.png",
     "static/media/Onboarding.png": "/portfolio/static/media/Onboarding.86bd38bcdef46f5fb298.png",
     "static/media/simple.png": "/portfolio/static/media/simple.8df34c5b795965153017.png",
+    "static/media/ecwa-mega.png": "/portfolio/static/media/ecwa-mega.b856450207dc862e79c8.png",
     "static/media/FoodBag.PNG": "/portfolio/static/media/FoodBag.2b1b1c6622e633a7c9b4.PNG",
     "static/media/fetch.png": "/portfolio/static/media/fetch.572cebd4f259dc9e3382.png",
     "static/media/Deliveroo-clone.png": "/portfolio/static/media/Deliveroo-clone.0194420d15f241ff42ed.png",
@@ -36,11 +37,11 @@
     "static/media/javadochealth.png": "/portfolio/static/media/javadochealth.79457fd1b7a66cb0c720.png",
     "index.html": "/portfolio/index.html",
     "main.735e14ff.css.map": "/portfolio/static/css/main.735e14ff.css.map",
-    "main.d3e97773.js.map": "/portfolio/static/js/main.d3e97773.js.map",
+    "main.937c25e6.js.map": "/portfolio/static/js/main.937c25e6.js.map",
     "787.5db04c4e.chunk.js.map": "/portfolio/static/js/787.5db04c4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.735e14ff.css",
-    "static/js/main.d3e97773.js"
+    "static/js/main.937c25e6.js"
   ]
 }
