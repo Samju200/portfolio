@@ -45,7 +45,7 @@ function Slide() {
                 <h1>
                     Hello Welcome! <br /> I'm
                     <span className="my-name">Juwon Adeyemi</span>, <br /> a
-                    passionate and experienced <br /> Frontend Web Developer{" "}
+                    passionate and experienced <br /> Software Engineer{" "}
                     <br /> dedicated to crafting innovative <br /> and seamless
                     digital experiences.
                 </h1>

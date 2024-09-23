@@ -20,6 +20,7 @@ import HealthDoc from "./img/javadochealth.png";
 import Dufuna from "./img/dufuna.png";
 import Blog from "./img/blog.png";
 import Bode from "./img/bode.png";
+import Ecwa from "./img/ecwa-mega.png";
 import Fetch from "./img/fetch.png";
 import Slide1 from "./slideName/slide_1.jpg";
 import Slide2 from "./slideName/slide_2.jpg";
@@ -37,6 +38,13 @@ export const portfolio = [
         image: Dufuna,
         link: "https://learning.dufuna.com",
         githublink: "#",
+    },
+    {
+        id: 1234466,
+        title: "ECWA Mega Gbagada",
+        image: Ecwa,
+        link: "https://ecwamegagbagada.com.ng",
+        githublink: "",
     },
     {
         id: 1254,
