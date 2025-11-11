@@ -43,11 +43,10 @@ function Slide() {
 
       <div className="word slide-p">
         <h1>
-          I build reliable backend systems and user-facing web applications. I
-          specialise in secure custodial wallet designs, multi-asset trading
-          backends, fiat rails, and integrations with payment & identity
-          providers. I enjoy turning complex requirements into maintainable,
-          testable code.
+          Hello Welcome! <br /> I'm
+          <span className="my-name">Juwon Adeyemi</span>, <br /> a passionate
+          and experienced <br /> Software Engineer <br /> dedicated to crafting
+          innovative <br /> and seamless digital experiences.
         </h1>
         <button className="slide-btn">
           <a href="#contact"> Get started</a>
